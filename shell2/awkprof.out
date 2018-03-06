@@ -1,0 +1,9 @@
+	# gawk profile, created Sun Nov 19 17:07:06 2017
+
+	# BEGIN rule(s)
+
+	BEGIN {
+     1  	FS = "\n"
+     1  	RS = ""
+	}
+
